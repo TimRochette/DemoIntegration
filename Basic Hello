@@ -1,0 +1,6 @@
+10 print("Hello")
+11 user_input = input()
+12 print("You said: " + user_input)
+13 print("What else is on your mind?")
+14 user_input = input()
+15 print("Interesting. Tell me more about " + user_input) 
